@@ -1,0 +1,5 @@
+{
+  "name": "NexusDash",
+  "description": "A dark, neon QA dashboard for managing projects, test suites, runs, devices and users.",
+  "requestFramePermissions": []
+}
